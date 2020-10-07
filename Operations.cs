@@ -28,7 +28,7 @@ namespace _7oct2020
         {
             ans = x / y;
         }
-        public void getdata()
+        public void GetData()
         {
             Console.WriteLine("Enter the Two Numbers: ");
             input1 = Convert.ToInt32(Console.ReadLine());
@@ -48,7 +48,7 @@ namespace _7oct2020
                 default: Console.WriteLine("Wrong Choice"); break;
             }
         }
-        public void showdata()
+        public void ShowData()
         {
             Console.WriteLine("The answer is: {0}", ans);
         }
