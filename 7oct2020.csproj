@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayOperation.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Operations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
